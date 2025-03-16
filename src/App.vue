@@ -1,6 +1,6 @@
 <template>
   <router-view />
-  j
+  dasds
 </template>
 
 <script setup>
